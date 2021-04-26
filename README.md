@@ -18,6 +18,10 @@ If anybody wants to contribute pr's are welcomed :).
 
 In order to see how the project is run see the test_main inside the test directory. Most of the things should be clear if you have played the game ball sort.
 
+### How to Run Tests
+
+`python -m unittest`
+
 ## Built With
 
 * Python 3
